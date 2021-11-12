@@ -1,0 +1,15 @@
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/bin/Debug/net6.0/testVsCode
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/bin/Debug/net6.0/testVsCode.deps.json
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/bin/Debug/net6.0/testVsCode.runtimeconfig.json
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/bin/Debug/net6.0/testVsCode.dll
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/bin/Debug/net6.0/ref/testVsCode.dll
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/bin/Debug/net6.0/testVsCode.pdb
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/obj/Debug/net6.0/testVsCode.csproj.AssemblyReference.cache
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/obj/Debug/net6.0/testVsCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/obj/Debug/net6.0/testVsCode.AssemblyInfoInputs.cache
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/obj/Debug/net6.0/testVsCode.AssemblyInfo.cs
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/obj/Debug/net6.0/testVsCode.csproj.CoreCompileInputs.cache
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/obj/Debug/net6.0/testVsCode.dll
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/obj/Debug/net6.0/ref/testVsCode.dll
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/obj/Debug/net6.0/testVsCode.pdb
+/Users/jiyoonkim/Documents/gitProjects/testVsCode/obj/Debug/net6.0/testVsCode.genruntimeconfig.cache
