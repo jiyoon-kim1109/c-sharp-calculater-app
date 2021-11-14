@@ -1,14 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-namespace HelloWorld
+namespace CalculatorApp
 {
     class Calculator
     {
         public static double DoOperation(double num1, double num2, string op)
         {
             double result = double.NaN; // Default value is "not-a-number" if an operation, such as division, could result in an error.
-            
+
             // Use a switch statement to the math
             switch (op)
             {
@@ -83,7 +83,7 @@ namespace HelloWorld
                 Console.Write("Your option? ");
 
                 string op = Console.ReadLine();
-                
+
                 try
                 {
                     result = Calculator.DoOperation(cleanNum1, cleanNum2, op);
